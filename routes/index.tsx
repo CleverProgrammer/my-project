@@ -11,7 +11,7 @@ export default function Home() {
         height='100px'
         alt='the fresh logo: a sliced lemon dripping with juice'
       />
-      <p>Qazi Gang 💯</p>
+      <p>2nd change 💯</p>
       {moment().format('MMMM Do YYYY, h:mm:ss a')}
       <Counter start={3} />
     </div>
